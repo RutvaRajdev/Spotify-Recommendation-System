@@ -54,12 +54,10 @@ could very easily have songs that were not in our smaller database. Thus we woul
 unable to actually test this model on real users, but we made it nonetheless.
 
 ## Results and Discussion
-Our recommendation system worked pretty well with this approach.
-
 ###### Model1:
-One of our users 'Helen' preferred the predicted playlist from the Simple
-Linear Regression(SLR) model over the other 2 models(Random Forest and Neural
-Network).
+Our recommendation system worked pretty well with this approach. One of our users 'Helen' preferred 
+the predicted playlist from the Simple Linear Regression(SLR) model over the other 2 models(Random Forest 
+and Neural Network).
 
 ###### Model2:
 The second approach is validated based on CV scores. We ran Logistic
